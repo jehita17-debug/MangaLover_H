@@ -1,0 +1,17 @@
+{
+  "name": "mangalover-h",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Curated dark/psychological Japanese manga reviews — Renta! affiliate site. Auto-generated reviews, static build.",
+  "scripts": {
+    "generate": "node scripts/generate.js",
+    "build": "node scripts/build.js",
+    "all": "node scripts/generate.js && node scripts/build.js",
+    "serve": "node -e \"const h=require('http'),f=require('fs'),p=require('path');h.createServer((q,s)=>{let u=q.url==='/'?'/index.html':q.url;let fp=path.join('dist',u.split('?')[0]);f.readFile(fp,(e,d)=>{if(e){s.statusCode=404;s.end('404');return}const t={'.html':'text/html','.css':'text/css'}[path.extname(fp)]||'text/plain';s.setHeader('content-type',t);s.end(d)})}).listen(8080,()=>console.log('http://localhost:8080'))\""
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "gray-matter": "^4.0.3",
+    "marked": "^12.0.2"
+  }
+}
