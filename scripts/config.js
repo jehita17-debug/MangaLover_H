@@ -17,5 +17,5 @@ module.exports = {
 
   // The model used for review generation. Claude API.
   GEN_MODEL: "claude-sonnet-4-6",
-  GEN_MAX_TOKENS: 1400,
+  GEN_MAX_TOKENS: 2400,
 };

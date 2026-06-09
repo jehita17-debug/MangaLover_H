@@ -1,15 +1,25 @@
 ---
-title_en: "Goodnight Punpun"
-title_ja: "おやすみプンプン"
-renta_url: "https://renta.papy.co.jp/REPLACE-WITH-YOUR-AFFILIATE-LINK"
-mood_note: "自分が普通の人間でしかないと気づいてしまった夜に読む。誰のせいでもなく静かに沈んでいく感じ。"
+title_en: Goodnight Punpun
+title_ja: おやすみプンプン
+renta_url: 'https://renta.papy.co.jp/REPLACE-WITH-YOUR-AFFILIATE-LINK'
+mood_note: 自分が普通の人間でしかないと気づいてしまった夜に読む。誰のせいでもなく静かに沈んでいく感じ。
 status: published
-notes: ""
-genre_tags: ["Coming-of-age dread", "Quiet despair", "Morally grey", "Literary seinen"]
-hook: "For the night you realize you might just be an ordinary person."
-if_you_liked: "If Oyasumi Punpun is the obvious anchor here — but where most despair manga perform their darkness, this one just lets the air slowly leave the room. Closer to Homunculus in how it distrusts its own narrator."
-one_line_meta: "Goodnight Punpun (おやすみプンプン): a quiet, devastating coming-of-age seinen for readers who want despair without spectacle."
-generated_at: "2026-06-09"
+notes: ''
+genre_tags:
+  - Quiet seinen
+  - Coming-of-age dread
+  - Quiet despair
+  - Morally grey
+  - Literary seinen
+hook: For the night you realize you might just be an ordinary person.
+if_you_liked: >-
+  If Oyasumi Punpun is the obvious anchor here — but where most despair manga
+  perform their darkness, this one just lets the air slowly leave the room.
+  Closer to Homunculus in how it distrusts its own narrator.
+one_line_meta: >-
+  Goodnight Punpun (おやすみプンプン): a quiet, devastating coming-of-age seinen for
+  readers who want despair without spectacle.
+generated_at: '2026-06-09'
 ---
 
 There is no monster in this one. That is what makes it hard to put down and harder to recover from. It moves at the speed of an actual life — slow, then all at once — and it refuses to tell you who to blame. You keep waiting for the book to take a side, to point at the parent or the friend or the world, and it never does. It just watches a person become the sum of his smallest avoidances.

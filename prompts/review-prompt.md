@@ -51,7 +51,7 @@ they are in tonight* — not a ranking, not a "top 10."
    not transliterate or translate it yourself.
 4. **Genre tags are search doors, not labels.** Give 3–5 *combinations* English
    readers actually search by mood (e.g. "Slow-burn dread," "Morally grey,"
-   "Quiet seinen," "Psychological crime"). Avoid bare single words like "Drama."
+   "Quiet seinen," "Psychological crime"). Avoid bare single words like "Drama." **At least one tag MUST be exactly one of the site's six canonical search doors, copied verbatim (same spelling, casing, spacing): "Psychological", "Slow-burn dread", "Morally grey", "Dark fantasy", "Crime / Mystery", "Quiet seinen".** Put that canonical tag first, then add 2-4 of your own mood combinations.
 5. **The "if you liked" comparison uses the shared canon** English readers already
    know — *Monster, Berserk, 20th Century Boys, Vinland Saga, Oyasumi Punpun,
    Homunculus, Goodnight Punpun, MPD-Psycho, Vagabond*, etc. — and states the
