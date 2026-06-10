@@ -18,5 +18,5 @@ This site participates in affiliate programs through ValueCommerce. Some outboun
 ### Operator
 
 - **Site name:** MangaLover_H
-- **Operator:** REPLACE_WITH_YOUR_NAME_OR_HANDLE
+- **Operator:** MangaLover_H
 - **Contact:** see the [Contact](contact.html) page

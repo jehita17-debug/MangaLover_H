@@ -2,7 +2,7 @@
 module.exports = {
   SITE_NAME: "MangaLover_H",
   // Used for canonical URLs / og tags. No trailing slash. Update when domain is live.
-  SITE_URL: "https://example.com",
+  SITE_URL: "https://jehita17-debug.github.io/MangaLover_H",
 
   // Top-nav "mood doors" (設計書 §4). English search terms, on purpose.
   // These always get a tag page, even before a matching work exists.
